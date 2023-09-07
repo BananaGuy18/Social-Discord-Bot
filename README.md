@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was created in order to automate tasks within a Discord server for a community of users. The bot has may features and is currently being run 24/7 on a Raspberry Pi 3 to allow for the uesrs to interact with the bot daily.
+This project was created in order to automate tasks within a Discord server for a community of users. The bot has may features and is currently being run 24/7 on a Raspberry Pi 4 Model B to allow for the uesrs to interact with the bot daily.
 
 This bot has the following features:
 * Clearing the chat
